@@ -62,27 +62,27 @@ const talentsData = [
       "Tech Writer": 50
     }
   },
-  {
-    id: 4,
-    name: "I Gede Teguh Permana",
-    image: "assets/img/4_perma.jpg",
-    description: "Senior Artificial intellegence consultant with strong expertise in delivering end-to-end technology solutions from system design and scalable architecture to service deployment. Experienced in integrating artificial intelligence into production systems and solving complex problems through data-driven innovation.",
-    linkedin: "https://www.linkedin.com/in/teguhpermana/",
-    skills: {
-      "Computer Vision": 80,
-      "Classification & Regression": 90,
-      "Forecasting / Time-series": 80,
-      "EDA & Visualization": 70,
-      "NLP": 30,
-      "Speech / Audio": 90,
-      "Data Engineering": 80,
-      "Deployment": 80,
-      "Front End": 40,
-      "Back End": 40,
-      "MLOps": 60,
-      "Tech Writer": 90
-    }
-  },
+  // {
+  //   id: 4,
+  //   name: "I Gede Teguh Permana",
+  //   image: "assets/img/4_perma.jpg",
+  //   description: "Senior Artificial intellegence consultant with strong expertise in delivering end-to-end technology solutions from system design and scalable architecture to service deployment. Experienced in integrating artificial intelligence into production systems and solving complex problems through data-driven innovation.",
+  //   linkedin: "https://www.linkedin.com/in/teguhpermana/",
+  //   skills: {
+  //     "Computer Vision": 80,
+  //     "Classification & Regression": 90,
+  //     "Forecasting / Time-series": 80,
+  //     "EDA & Visualization": 70,
+  //     "NLP": 30,
+  //     "Speech / Audio": 90,
+  //     "Data Engineering": 80,
+  //     "Deployment": 80,
+  //     "Front End": 40,
+  //     "Back End": 40,
+  //     "MLOps": 60,
+  //     "Tech Writer": 90
+  //   }
+  // },
   {
     id: 5,
     name: "Anak Agung Istri Prabhaisvari Sadhaka",
